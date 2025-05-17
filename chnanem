@@ -1,0 +1,142 @@
+{
+  "channels": [
+    {
+      "name": "beIN SPORTS HD1",
+      "url": "https://stream.sainaertebat.com/hls2/bein1.m3u8",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "beIN SPORTS HD2",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/240_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "beIN SPORTS HD3",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/241_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "beIN SPORTS HD4",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/1_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "beIN SPORTS HD5",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/32_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "beIN Drama HD",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/32_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/15/Drama.jpg",
+      "category": "beIN SPORTS"
+    },
+    {
+      "name": "SSC 1",
+      "url": "https://stream.sainaertebat.com/hls2/ssc1.m3u8",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC 2",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/163_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC 3",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/147_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC 4",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/178_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC 5",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/179_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC Extra1",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/193_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC Extra2",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/226_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "SSC Extra2",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/226_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/19/imagec602a13b8ce36a81.png",
+      "category": "SSC"
+    },
+    {
+      "name": "KSA SPORTS 1 4K",
+      "url": "https://s167.lbvul.com:8080/live/9251840062/5973858887/222044.m3u8?token=ShZbBUcKFg4aBQdSDwcEAAdZDAMCXgVfAgwGAwEGAgwEAFZRBAMGVlsRTkZLFkMEVAxqW1VECFRWC1QABx4VTUJRQTtdBhYODABUXA5bHUNBCFhXE1wCSkZJDVARCBUMAQYGXRZOFlFARwcWVgNdPlEEQ1tSAxBcCkwIWB8QWFZuUFYJVQxQFgIRU0YUQFgSRUMPXEQKXkpGWw1AQVNDXRMOEVcNUQEWFBEBC00MRRNMQw8QZDUQSkZcHEBWXERRXloRXhYPB0EAEU5GURFuE1ASQUBUB18DFhteBB8QWllJa1ALWgxRV0xaDQpLQAtQGUNYXV8PRgkWZhRdVxANGgUEAVADQEk=",
+      "logo": "https://img.upanh.tv/2025/05/08/imageb7198a6598335c27.png",
+      "category": "SSC"
+    },
+    {
+      "name": "KSA SPORTS 2 4K",
+      "url": "https://s167.lbvul.com:8080/live/9251840062/5973858887/222045.m3u8?token=ShZbBUcKFg4aBQAGXVIJWQdWBFMGV1BWBwwCAwQFDw0EBQJRDFEABwERTkZLFkMEVAxqW1VECFRWC1QABh4VTUJRQTtdBhYODABUXA5bHUNBCFhXE1wCSkZJDVARCFlNXVgfRlEaQFFKXQMIZwZUF1wCUBALCEcKCBVGW11tU11cVV0AFlgWBRofQA1LEhNbWxRZXh1EUA8QSwVAVhANVkRYX0gWAVtBVkcQHRpYEyx0QxkQVB5GAwpKDVtdEA0aXAdGXBZOFl1LbBABSxZDBFQMUEATXAJKRlQFTGxRWFZfUVAQXQ1aRxoJU0gaD14PXBVaQG4WWwJGAwpBX15K",
+      "logo": "https://img.upanh.tv/2025/05/08/imageb7198a6598335c27.png",
+      "category": "SSC"
+    },
+    {
+      "name": "KSA SPORTS 3 4K",
+      "url": "http://s167.lbvul.com:8080/live/9251840062/5973858887/222047.m3u8?token=ShZbBUcKFg4aV1cBCwFXUQxVAFcBVVZTVAgBBQQDAQ4HUANUAFoEBwsRTkZLFkMEVAxqW1VECFRWC1QABB4VTUJRQTtdBhYODABUXA5bHUNBCFhXE1wCSkZJDVARCFlNXVgfRlEaQFFKXQMIZwZUF1wCUBALCEcKCBVGW11tU11cVV0AFlgWBRofQA1LEhNbWxRZXh1EUA8QSwVAVhANVkRYX0gWAVtBVkcQHRpYEyx0QxkQVB5GAwpKDVtdEA0aXAdGXBZOFl1LbBABSxZDBFQMUEATXAJKRlQFTGxRWFZfUVAQXQ1aRxoJU0gaD14PXBVaQG4WWwJGAwpBX15K",
+      "logo": "https://img.upanh.tv/2025/05/08/imageb7198a6598335c27.png",
+      "category": "SSC"
+    },
+    {
+      "name": "AD SPORTS 1 4K",
+      "url": "http://s167.lbvul.com:8080/live/9251840062/5973858887/362204.m3u8?token=ShZbBUcKFg4aUABcDFoGWVMDBQpQAgUEUAFWV1EHUw0BBgVUAwdRAgERTkZLFkMEVAxqW1VECFVSC1YEBx4VTUJRQTtdBhYODABUXA5bHUNBCFhXE1wCSkZJDVARCFlNXVgfRlEaQFFKXQMIZwZUF1wCUBALCEcKCBVGW11tU11cVV0AFlgWBRofQA1LEhNbWxRZXh1EUA8QSwVAVhANVkRYX0gWAVtBVkcQHRpYEyx0QxkQVB5GAwpKDVtdEA0aXAdGXBZOFl1LbBABSxZDBFQMUEATXAJKRlQFTGxRWFZfUVAQXQ1aRxoJU0gaD14PXBVaQG4WWwJGAwpBX15K",
+      "logo": "https://img.upanh.tv/2025/05/08/imageb7198a6598335c27.png",
+      "category": "SSC"
+    },
+    {
+      "name": "AD SPORTS 2 4K",
+      "url": "http://eagleblue.org:80/live/9251840062/5973858887/362202.m3u8",
+      "logo": "https://img.upanh.tv/2025/05/08/imageb7198a6598335c27.png",
+      "category": "SSC"
+    },
+    {
+      "name": "AL KASS 1 FHD",
+      "url": "http://eagleblue.org:80/live/9251840062/5973858887/362198.m3u8",
+      "logo": "https://img.upanh.tv/2025/05/08/image974ae2c703c1b796.png",
+      "category": "SSC"
+    },
+    {
+      "name": "AL KASS 2 FHD",
+      "url": "http://eagleblue.org:80/live/9251840062/5973858887/362199.m3u8",
+      "logo": "https://img.upanh.tv/2025/05/08/image974ae2c703c1b796.png",
+      "category": "SSC"
+    },
+    {
+      "name": "AL KASS 3 FHD",
+      "url": "http://eagleblue.org:80/live/9251840062/5973858887/178390.m3u8",
+      "logo": "https://img.upanh.tv/2025/05/08/image974ae2c703c1b796.png",
+      "category": "SSC"
+    },
+    {
+      "name": "ON Sports",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "logo": "https://img.upanh.tv/2025/04/19/imagedf1ba6d56167df66.png",
+      "category": "ON Sports"
+    }
+  ]
+}
